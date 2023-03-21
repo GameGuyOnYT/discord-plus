@@ -1,9 +1,9 @@
 /**
  * @name Discord+
- * @author PlusInsta
+ * @author Game<Guy
  * @authorId 309931975102300160
  * @authorLink https://plusinsta.xyz
- * @version 3.2.1
+ * @version 69
  * @description A sleek, customizable Discord theme.
  * @donate https://ko-fi.com/plusinsta
  * @website https://plusinsta.github.io/discord-plus
@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: #dddddd;
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
